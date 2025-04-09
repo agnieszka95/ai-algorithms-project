@@ -1,0 +1,9 @@
+c:\users\agnieszka\documents\visual studio 2015\Projects\Kohenen\Kohenen\bin\Debug\Kohenen.exe.config
+c:\users\agnieszka\documents\visual studio 2015\Projects\Kohenen\Kohenen\bin\Debug\Kohenen.exe
+c:\users\agnieszka\documents\visual studio 2015\Projects\Kohenen\Kohenen\bin\Debug\Kohenen.pdb
+c:\users\agnieszka\documents\visual studio 2015\Projects\Kohenen\Kohenen\obj\Debug\Kohenen.csprojResolveAssemblyReference.cache
+c:\users\agnieszka\documents\visual studio 2015\Projects\Kohenen\Kohenen\obj\Debug\Kohenen.Form1.resources
+c:\users\agnieszka\documents\visual studio 2015\Projects\Kohenen\Kohenen\obj\Debug\Kohenen.Properties.Resources.resources
+c:\users\agnieszka\documents\visual studio 2015\Projects\Kohenen\Kohenen\obj\Debug\Kohenen.csproj.GenerateResource.Cache
+c:\users\agnieszka\documents\visual studio 2015\Projects\Kohenen\Kohenen\obj\Debug\Kohenen.exe
+c:\users\agnieszka\documents\visual studio 2015\Projects\Kohenen\Kohenen\obj\Debug\Kohenen.pdb
