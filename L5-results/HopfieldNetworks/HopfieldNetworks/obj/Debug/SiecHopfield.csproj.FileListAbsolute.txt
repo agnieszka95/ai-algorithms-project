@@ -1,0 +1,6 @@
+c:\users\agnieszka\documents\visual studio 2015\Projects\SiecHopfield\SiecHopfield\bin\Debug\SiecHopfield.exe.config
+c:\users\agnieszka\documents\visual studio 2015\Projects\SiecHopfield\SiecHopfield\bin\Debug\SiecHopfield.exe
+c:\users\agnieszka\documents\visual studio 2015\Projects\SiecHopfield\SiecHopfield\bin\Debug\SiecHopfield.pdb
+c:\users\agnieszka\documents\visual studio 2015\Projects\SiecHopfield\SiecHopfield\obj\Debug\SiecHopfield.csprojResolveAssemblyReference.cache
+c:\users\agnieszka\documents\visual studio 2015\Projects\SiecHopfield\SiecHopfield\obj\Debug\SiecHopfield.exe
+c:\users\agnieszka\documents\visual studio 2015\Projects\SiecHopfield\SiecHopfield\obj\Debug\SiecHopfield.pdb
